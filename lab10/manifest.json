@@ -1,0 +1,25 @@
+{
+
+    "name":"login",
+    "start_url":"index.html",
+    "id":"/",
+    "background_color":"#00AA00",
+    "theme_color":"#00CC00",
+    "display":"standalone",
+    "Oreintation":"potrait_primary",
+    "icons": [
+        {
+        "src": "rvce.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "maskable"
+        },
+        {
+        "src": "rvce.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any"
+        }
+        ]
+}
+

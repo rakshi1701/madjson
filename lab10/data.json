@@ -1,0 +1,18 @@
+[
+    {
+    "company": "3M",
+    "description": "3M, based in Minnesota, may be best known for its Scotch tape and Post-It Notes",
+    "initial_price": 44.28,
+    "price_2002": 56.27,
+    "price_2007": 95.85,
+    "symbol": "MMM"
+    },
+    {
+    "company": "Amazon.com",
+    "description": "Amazon.com, Inc. is an online retailer in North America and internationally.",
+    "initial_price": 89.38,
+    "price_2002": 17.01,
+    "price_2007": 93.43,
+    "symbol": "AMZN"
+    }
+]
